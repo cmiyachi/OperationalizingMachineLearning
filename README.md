@@ -75,7 +75,7 @@ In Jupyter Notebook, showing that the “Use RunDetails Widget” shows the step
 In ML studio showing the scheduled run -  note that the pipeline endpoint is running. 
 
 ## Screen Recording
-The recording is in: ![Cluster Image](images/CMProject2.avi)
+The recording is in: [link to video to downlod](https://github.com/cmiyachi/OperationalizingMachineLearning/blob/main/images/CMProject2.avi)
 
 ## Standout Suggestions
 ### Improvements
